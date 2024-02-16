@@ -1,4 +1,4 @@
-# Setting up Email Functionality in Django with python-decouple
+# Setting up Email Functionality in Django (Gmail) with python-decouple
 
 Follow these steps to set up email functionality in your Django project using python-decouple:
 
