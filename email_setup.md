@@ -3,9 +3,9 @@
 Follow these steps to set up email functionality in your Django project using python-decouple:
 
 1. **Install python-decouple**:
-\`\`\`shell
+```shell
 pip install python-decouple
-\`\`\`
+```
 
 2. **Create a .env file** in the same directory as your manage.py file. Inside this .env file, add your email password like so:
 \`\`\`shell
